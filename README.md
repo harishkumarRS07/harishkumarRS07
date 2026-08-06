@@ -225,3 +225,201 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • FinB
 🚀 React • React Native • Node.js • Express.js  • FastAPI • MongoDB • Python • JavaScript • AI • Machine Learning • Full Stack Development
 
 </p>
+---
+# 🌟 Flagship Projects
+
+> These projects best represent my expertise in **AI Applications**, **Full Stack Development**, and **React Native**.
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 📈 InvestIQ
+
+### AI-Powered Stock Analysis Platform
+
+An intelligent stock market analysis platform that combines **Machine Learning**, **Technical Analysis**, and **Financial Data Visualization** to help users make informed investment decisions.
+
+### ✨ Highlights
+
+- 📈 AI-powered stock price prediction
+- 🤖 LSTM & Prophet forecasting
+- 📰 Financial sentiment analysis
+- 📊 Technical indicators dashboard
+- 📱 Cross-platform React Native application
+- ⚡ FastAPI backend with real-time APIs
+
+### 🛠 Tech Stack
+
+`React Native`
+`FastAPI`
+`Python`
+`PyTorch`
+`LSTM`
+`Prophet`
+`FinBERT`
+`XGBoost`
+`Supabase`
+
+### 🎯 Focus
+
+Financial AI • Machine Learning • Mobile Development
+
+<br>
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Invest-IQ)
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x420/0F172A/FFFFFF?text=InvestIQ"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://placehold.co/600x420/111827/FFFFFF?text=CarConsult"/>
+
+</td>
+
+<td width="50%">
+
+## 🚗 CarConsult
+
+### Full Stack Car Marketplace
+
+A production-ready MERN application that enables users to browse, evaluate, and sell vehicles with an integrated admin dashboard and real-time notifications.
+
+### ✨ Highlights
+
+- 🚘 Car marketplace
+- 💬 Meta WhatsApp integration
+- 📋 Multi-step vehicle evaluation
+- 👨‍💼 Admin dashboard
+- 🔐 Secure authentication
+- 📱 Responsive UI
+
+### 🛠 Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`WhatsApp Cloud API`
+
+### 🎯 Focus
+
+MERN Stack • Full Stack Development
+
+<br>
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Car-Consulting-Platform)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌿 EternaGlow
+
+### Wellness & Healthcare Platform
+
+A cross-platform wellness application providing natural remedies, skincare guidance, and personalized health information with a clean mobile-first experience.
+
+### ✨ Highlights
+
+- 🌿 Natural remedies
+- 💄 Skincare guidance
+- 🔐 Secure authentication
+- 📱 React Native mobile app
+- 🎨 Beautiful UI
+- 📂 Categorized content
+
+### 🛠 Tech Stack
+
+`React Native`
+`Node.js`
+`Express`
+`MongoDB`
+
+### 🎯 Focus
+
+Mobile Development • Healthcare
+
+<br>
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Eternaglow)
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x420/15803D/FFFFFF?text=EternaGlow"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://placehold.co/600x420/7C3AED/FFFFFF?text=AI+YouTube+Bot"/>
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI YouTube Bot
+
+### Fully Automated AI Content Pipeline
+
+An AI-powered YouTube automation system that discovers trending topics, generates scripts, creates voiceovers, designs thumbnails, composes videos, and uploads them automatically.
+
+### ✨ Highlights
+
+- 🔥 Trending topic discovery
+- 🧠 AI script generation
+- 🎙️ AI voice synthesis
+- 🎨 Thumbnail generation
+- 🎬 Automatic video creation
+- ☁️ Direct YouTube publishing
+
+### 🛠 Tech Stack
+
+`Python`
+`FastAPI`
+`LLMs`
+`MoviePy`
+`FFmpeg`
+`YouTube API`
+
+### 🎯 Focus
+
+Artificial Intelligence • Automation
+
+<br>
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Ai-Youtube-Bot)
+
+</td>
+</tr>
+</table>
+
+---
