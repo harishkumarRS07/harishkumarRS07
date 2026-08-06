@@ -699,3 +699,38 @@ Designed and developed a complete **car marketplace platform** for a client, han
 </div>
 
 ---
+# 🤝 Let's Connect
+
+I'm always excited to collaborate on **Full Stack**, **React Native**, and **AI-powered** projects.
+
+Whether you're looking for a developer, have an exciting idea, or just want to talk about technology, feel free to reach out.
+
+<div align="center">
+
+<a href="https://github.com/harishkumarRS07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/harishkumarrs">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harishvicky07@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 "Building software isn't just about writing code—it's about solving real problems with creativity, scalability, and purpose."
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider ⭐ starring my repositories and following my journey.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:EC4899"/>
+
+</div>
