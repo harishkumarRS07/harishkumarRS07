@@ -26,15 +26,6 @@
 
 ---
 
-# 👋 Hello, I'm Harish
-
-I'm a **Full Stack Developer** passionate about building scalable web applications, cross-platform mobile apps, and AI-powered software that solves real-world problems.
-
-My primary expertise lies in the **MERN Stack**, **React Native**, **FastAPI**, and **Python**, with a growing focus on **Machine Learning**, **AI Automation**, and **System Design**.
-
-I enjoy transforming ideas into production-ready applications—from designing intuitive user interfaces to developing secure backend APIs and integrating intelligent AI workflows.
-
-Currently, I'm focused on building impactful projects while continuously improving my expertise in modern software engineering and artificial intelligence.
 
 # 👋 Hello, I'm Harish
 
