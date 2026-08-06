@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer+(MERN);React+Native+Developer;Python+%7C+FastAPI+%7C+Machine+Learning;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer+(MERN);React+Native+Developer;Always+Building+Something+New"/>
 
 <br><br>
 
@@ -76,24 +76,20 @@ Building:
 
 Learning:
   • Advanced React
-  • Next.js
   • System Design
   • AI Agents
   • Cloud Deployment
 
 Interested In:
-  • Artificial Intelligence
   • Full Stack Development
   • Mobile Development
-  • Automation
+  • MERN
   • Open Source
 ```
 
 ---
 
 ## ⚡ Quick Facts
-
-- 🔭 Currently building AI-powered applications
 - 🌱 Learning advanced software engineering concepts
 - 💬 Ask me about React, React Native, Node.js, FastAPI, MongoDB, or AI projects
 - 🚀 Passionate about transforming ideas into real products
