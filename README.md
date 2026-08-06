@@ -39,3 +39,78 @@ My primary expertise lies in the **MERN Stack**, **React Native**, **FastAPI**, 
 I enjoy transforming ideas into production-ready applications—from designing intuitive user interfaces to developing secure backend APIs and integrating intelligent AI workflows.
 
 Currently, I'm focused on building impactful projects while continuously improving my expertise in modern software engineering and artificial intelligence.
+# 💫 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I'm **Harish Kumar R S**, a **Full Stack Developer** passionate about building scalable web applications, cross-platform mobile apps, and AI-powered software that solves real-world problems.
+
+Over the past few years, I've built projects ranging from **AI-driven stock prediction systems** and **YouTube automation platforms** to **production-ready MERN applications** and **React Native mobile apps**. I enjoy working across the entire software development lifecycle—from designing intuitive user experiences to building secure backend APIs and integrating intelligent AI workflows.
+
+My goal is simple:
+
+> **Build products that are useful, scalable, and powered by intelligent technologies.**
+
+---
+
+## 🚀 What I Do
+
+🖥️ Build scalable Full Stack Web Applications
+
+📱 Develop cross-platform mobile apps using React Native
+
+🤖 Create AI-powered automation tools and intelligent systems
+
+📊 Design dashboards, analytics platforms, and management systems
+
+⚡ Build secure REST APIs with FastAPI and Express.js
+
+🎯 Continuously improve software architecture and user experience
+
+---
+
+## 💡 Current Focus
+
+```yaml
+Building:
+  • InvestIQ
+  • AI YouTube Bot
+  • CarConsult Platform
+
+Learning:
+  • Advanced React
+  • Next.js
+  • System Design
+  • AI Agents
+  • Cloud Deployment
+
+Interested In:
+  • Artificial Intelligence
+  • Full Stack Development
+  • Mobile Development
+  • Automation
+  • Open Source
+```
+
+---
+
+## ⚡ Quick Facts
+
+- 🔭 Currently building AI-powered applications
+- 🌱 Learning advanced software engineering concepts
+- 💬 Ask me about React, React Native, Node.js, FastAPI, MongoDB, or AI projects
+- 🚀 Passionate about transforming ideas into real products
+- 🎯 Looking for Software Developer opportunities
+- ⚙️ Strong believer in clean architecture and maintainable code
+
+---
+
+## ❤️ I Love Building
+
+- 🤖 AI Applications
+- 📈 FinTech Solutions
+- 📱 Mobile Applications
+- 🌐 Full Stack Platforms
+- 🚀 SaaS Products
+- ⚡ Automation Tools
+- 🎨 Modern User Interfaces
