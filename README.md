@@ -125,7 +125,6 @@ Interested In:
 <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-**React Native • Expo**
 
 ---
 
