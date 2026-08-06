@@ -423,3 +423,166 @@ Artificial Intelligence • Automation
 </table>
 
 ---
+# 🚀 Other Notable Projects
+
+> Beyond my flagship applications, I've built a diverse range of projects across web development, mobile applications, enterprise software, and IoT.
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 📚 Tamil Stories Web App
+
+A modern storytelling platform where users can discover, search, and read Tamil stories through an elegant and responsive interface.
+
+### ✨ Features
+
+- 🔍 Smart Search
+- 📖 Story Categories
+- 📱 Fully Responsive UI
+- 🌙 Modern Design
+- ⚡ Fast Navigation
+
+**Tech Stack**
+
+`React`
+`JavaScript`
+`Node.js`
+`MongoDB`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Tamil-Stories-Web-App)
+
+</td>
+
+<td width="50%">
+
+## 🎌 Anime App
+
+A cross-platform React Native application for discovering anime, watching trailers, and managing favourites using the Jikan API.
+
+### ✨ Features
+
+- 🔍 Anime Search
+- ❤️ Favorites
+- 🎥 Trailers
+- 📺 Episode Details
+- 📱 Mobile-first UI
+
+**Tech Stack**
+
+`React Native`
+`TypeScript`
+`Node.js`
+`Jikan API`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Anime-App)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 📊 Audit Log Dashboard
+
+An analytics dashboard for tracking audit events with clean visualizations and activity monitoring.
+
+### ✨ Features
+
+- 📈 Dashboard Analytics
+- 📋 Audit Logs
+- 🔍 Filtering
+- 📊 Data Visualization
+
+**Tech Stack**
+
+`React`
+`JavaScript`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Audit-Log-Dashboard)
+
+</td>
+
+<td width="50%">
+
+## 🏥 Patient Management System
+
+A hospital management application that streamlines patient records, appointments, and healthcare workflows.
+
+### ✨ Features
+
+- 👨‍⚕️ Patient Records
+- 📅 Appointment Management
+- 📝 Medical History
+- 🏥 Healthcare Workflow
+
+**Tech Stack**
+
+`Java`
+`Database`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Patient-Management-System)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🍔 StreetFoodz
+
+A food delivery application that connects users with nearby street food vendors through a clean and intuitive interface.
+
+### ✨ Features
+
+- 🍽️ Food Discovery
+- 📍 Nearby Vendors
+- 🛒 Order Flow
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`MongoDB`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/StreetFoodz)
+
+</td>
+
+<td width="50%">
+
+## 🚘 Obstacle Avoiding Smart Car
+
+An Arduino-based autonomous vehicle that detects obstacles and navigates safely using ultrasonic sensors.
+
+### ✨ Features
+
+- 🚗 Autonomous Navigation
+- 📡 Ultrasonic Sensor
+- 🔄 Obstacle Detection
+- ⚡ Real-time Decision Making
+
+**Tech Stack**
+
+`Arduino`
+`C++`
+`Embedded Systems`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/harishkumarRS07/Obstacle-Avoiding-Smart-Car)
+
+</td>
+</tr>
+</table>
+
+---
