@@ -107,3 +107,116 @@ Interested In:
 - 🚀 SaaS Products
 - ⚡ Automation Tools
 - 🎨 Modern User Interfaces
+
+---
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
+</p>
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native • Expo**
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • FinBERT • Prophet • XGBoost
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify" />
+</p>
+
+---
+
+## 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio" />
+</p>
+
+</div>
+
+---
+
+## 💼 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+- MERN Stack
+- REST APIs
+- Authentication & Authorization
+- Responsive UI Design
+- Database Design
+- CRUD Applications
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Automation
+
+- Machine Learning
+- AI Integration
+- Financial Prediction Models
+- Automation Workflows
+- Prompt Engineering
+- AI-Powered Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Technologies I Enjoy Working With
+
+<p align="center">
+
+🚀 React • React Native • Node.js • FastAPI • MongoDB • Python • JavaScript • AI • Machine Learning • Full Stack Development
+
+</p>
