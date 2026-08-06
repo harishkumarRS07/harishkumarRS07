@@ -586,3 +586,60 @@ An Arduino-based autonomous vehicle that detects obstacles and navigates safely 
 </table>
 
 ---
+# 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🏅 Achievement | 📖 Description |
+|:--------------:|---------------|
+| 🥈 **Project Expo 2025** | Awarded **2nd Place** for developing a **React Native-based Skin & Haircare Application** that focused on personalized wellness and user experience. |
+| 🚀 **Ignite Bootcamp** | Selected for **Ignite Bootcamp**, a national-level startup idea development program focused on innovation, entrepreneurship, and product development. |
+| 🤖 **AMD AI Workshop** | Successfully completed the **AMD AI Workshop**, gaining practical exposure to Artificial Intelligence fundamentals and real-world applications. |
+| 💡 **Technical Community** | Participated in **National-Level Technical Peer Discussions**, collaborating with developers and exploring emerging software technologies. |
+
+</div>
+
+---
+
+# 📊 GitHub Highlights
+
+<div align="center">
+
+| 💼 | Highlights |
+|:--:|-----------|
+| 🚀 | **10+ Projects** across AI, MERN Stack, React Native, Web, Mobile, IoT, and Enterprise Software |
+| 🤖 | Built multiple **AI-powered applications** including financial prediction systems and automation platforms |
+| 📱 | Developed **cross-platform mobile applications** using React Native & Expo |
+| 🌐 | Designed and deployed **Full Stack MERN Applications** with authentication, dashboards, and REST APIs |
+| 📊 | Experienced in **Machine Learning**, **FastAPI**, **Python**, and intelligent automation workflows |
+| 🎯 | Passionate about building scalable software with clean architecture and modern UI/UX |
+
+</div>
+
+---
+
+# 🎯 Career Objective
+
+> I'm passionate about building intelligent software that solves real-world problems. My goal is to contribute to impactful products while continuously improving my skills in **Artificial Intelligence**, **Full Stack Development**, and **Mobile Application Development**.
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+| 🚀 Building | 📚 Learning | 🎯 Interested In |
+|-------------|------------|-----------------|
+| 📈 InvestIQ | Advanced React | Artificial Intelligence |
+| 🤖 AI YouTube Bot | Next.js | System Design |
+| 🚗 CarConsult | Cloud Deployment | Open Source |
+| 🌿 EternaGlow | AI Agents | Scalable Architectures |
+
+</div>
+
+---
+
+# 💬 Developer Philosophy
+
+> **"Great software isn't just about writing code—it's about solving problems, creating meaningful experiences, and continuously learning to build better solutions."**
+> ---
