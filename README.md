@@ -171,7 +171,7 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • FinB
 ## 🧰 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,antigravity,androidstudio" />
 </p>
 
 </div>
