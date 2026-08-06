@@ -669,7 +669,8 @@ Designed and developed a complete **car marketplace platform** for a client, han
 
 > This freelance project provided hands-on experience in delivering a production-ready full-stack application while collaborating with a client, translating business requirements into a functional product, and managing the complete development lifecycle.
 > ---
-> # 📊 GitHub Analytics
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
