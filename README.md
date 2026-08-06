@@ -162,15 +162,22 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • FinB
 ## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 </p>
 
 ---
 
-## 🧰 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,antigravity,androidstudio" />
+## 🤖 AI Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity%20IDE-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
 </p>
 
 </div>
