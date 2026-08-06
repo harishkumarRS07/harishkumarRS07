@@ -668,3 +668,57 @@ Designed and developed a complete **car marketplace platform** for a client, han
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Meta WhatsApp Cloud API` • `JavaScript`
 
 > This freelance project provided hands-on experience in delivering a production-ready full-stack application while collaborating with a client, translating business requirements into a functional product, and managing the complete development lifecycle.
+> ---
+> # 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harishkumarRS07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumarRS07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=harishkumarRS07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumarRS07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harishkumarRS07&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Summary
+
+<div align="center">
+
+| 📂 Projects | 💻 Focus | 🚀 Currently Building |
+|------------|---------|-----------------------|
+| AI Applications | MERN Stack | InvestIQ |
+| React Native Apps | FastAPI | AI YouTube Bot |
+| Full Stack Platforms | Python | CarConsult |
+| Automation Tools | Machine Learning | EternaGlow |
+
+</div>
+---
