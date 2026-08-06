@@ -643,3 +643,28 @@ An Arduino-based autonomous vehicle that detects obstacles and navigates safely 
 
 > **"Great software isn't just about writing code—it's about solving problems, creating meaningful experiences, and continuously learning to build better solutions."**
 > ---
+# 💼 Freelance Experience
+
+## 🚗 CarConsult — Full Stack Car Marketplace
+
+**Role:** Freelance Full Stack Developer
+
+Designed and developed a complete **car marketplace platform** for a client, handling both frontend and backend development from concept to deployment. The platform streamlines vehicle buying and selling through an intuitive interface, admin management tools, and real-time lead notifications.
+
+### 🚀 Key Contributions
+
+- Built a responsive web application using **React.js**
+- Developed scalable REST APIs using **Node.js** and **Express.js**
+- Designed and managed **MongoDB** database schemas
+- Implemented secure user authentication and authorization
+- Built a multi-step vehicle evaluation and selling workflow
+- Developed an admin dashboard for managing users, listings, and inquiries
+- Integrated **Meta WhatsApp Cloud API** for instant lead notifications
+- Improved UI/UX with modern responsive design principles
+- Worked directly with client requirements, feature planning, testing, and deployment
+
+### 🛠 Tech Stack
+
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Meta WhatsApp Cloud API` • `JavaScript`
+
+> This freelance project provided hands-on experience in delivering a production-ready full-stack application while collaborating with a client, translating business requirements into a functional product, and managing the complete development lifecycle.
