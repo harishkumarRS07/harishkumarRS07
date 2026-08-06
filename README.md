@@ -113,16 +113,10 @@ Interested In:
 
 <div align="center">
 
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
-</p>
-
 ## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ## 📱 Mobile Development
@@ -150,6 +144,11 @@ Interested In:
 </p>
 
 ---
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
+</p>
 
 ## 🤖 AI / Machine Learning
 
@@ -217,6 +216,6 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • FinB
 
 <p align="center">
 
-🚀 React • React Native • Node.js • FastAPI • MongoDB • Python • JavaScript • AI • Machine Learning • Full Stack Development
+🚀 React • React Native • Node.js • Express.js  • FastAPI • MongoDB • Python • JavaScript • AI • Machine Learning • Full Stack Development
 
 </p>
