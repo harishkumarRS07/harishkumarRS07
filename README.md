@@ -699,27 +699,3 @@ Designed and developed a complete **car marketplace platform** for a client, han
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishkumarRS07&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</div>
-
----
-
-# ⚡ GitHub Summary
-
-<div align="center">
-
-| 📂 Projects | 💻 Focus | 🚀 Currently Building |
-|------------|---------|-----------------------|
-| AI Applications | MERN Stack | InvestIQ |
-| React Native Apps | FastAPI | AI YouTube Bot |
-| Full Stack Platforms | Python | CarConsult |
-| Automation Tools | Machine Learning | EternaGlow |
-
-</div>
----
